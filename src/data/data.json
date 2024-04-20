@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "India's bridge builders",
+    "paragraph": "Sagar Construction is India's premier bridge-building company, renowned for its expertise and reliability in constructing bridges across the country."
+  },
+  "About": {
+    "paragraph": "At Sagar Construction, we are dedicated to shaping the future of infrastructure in India. With a team of expert bridge builders and innovative engineers, we specialize in reliable construction and cutting-edge engineering solutions. Our commitment to excellence is backed by the best machinery and experienced staff, ensuring that every project is delivered with precision and quality. From conception to completion, we take pride in our work, creating iconic bridges that stand the test of time and contribute to the nation's development",
+    "Why": [
+      "Expertise",
+      "Reliability",
+      "Reliability",
+      "Quality Machinery"
+    ],
+    "Why2": [
+      "Experienced Staff",
+      "Timely Delivery",
+      "Cost-Effectiveness",
+      "Commitment"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-car",
+      "name": "Road Construction",
+      "text": "Building reliable and durable roads to connect communities, ensuring smooth transportation and accessibility."
+    },
+    {
+      "icon": "fa  fa-train",
+      "name": "Railway Bridge",
+      "text": "Expertise in constructing safe and efficient railway bridges, facilitating seamless railway transportation and connectivity."
+    },
+    {
+      "icon": "fa  fa-area-chart",
+      "name": "Check Dams",
+      "text": "Constructing small river check dams for water management, flood control, and sustainable water resource utilization"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Expert Bridge Builders",
+      "text": "With a team of expert bridge builders, Sagar Construction ensures the highest quality in every project."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Reliable Construction",
+      "text": "Sagar Construction is known for its reliable construction, delivering projects on time and within budget."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Innovative Engineering",
+      "text": "Our innovative engineering solutions set us apart, ensuring efficient and sustainable bridge construction."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "Best Machinery",
+      "text": "Equipped with the best machinery and experienced staff, we guarantee excellence in every project we undertake."
+    }
+  ]
+}
